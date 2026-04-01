@@ -1,0 +1,17 @@
+{
+  "name": "NOVA STRIKE",
+  "short_name": "NovaStrike",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00f2ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "C:/Users/lenovo/.gemini/antigravity/brain/e5a961f4-62c6-4518-8196-f8f4bc89706f/player_ship_nova_strike_1775021452824.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
