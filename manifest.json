@@ -1,15 +1,21 @@
 {
-  "name": "NOVA STRIKE",
+  "name": "NOVA STRIKE - ELITE",
   "short_name": "NovaStrike",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#000000",
+  "background_color": "#00081a",
   "theme_color": "#00f2ff",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "C:/Users/lenovo/.gemini/antigravity/brain/e5a961f4-62c6-4518-8196-f8f4bc89706f/player_ship_nova_strike_1775021452824.png",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     }
