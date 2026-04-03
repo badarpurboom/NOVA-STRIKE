@@ -1,17 +1,11 @@
 {
   "name": "NOVA STRIKE - ELITE",
   "short_name": "NovaStrike",
-  "id": "co.median.android.abmbpja",
-  "description": "An immersive and intense space shooter game.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#00081a",
   "theme_color": "#00f2ff",
   "orientation": "portrait",
-  "categories": [
-    "games",
-    "action"
-  ],
   "icons": [
     {
       "src": "icons/icon-192.png",
@@ -22,21 +16,6 @@
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "icons/screenshot.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Gameplay of Nova Strike"
     }
   ]
 }
